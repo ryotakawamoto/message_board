@@ -17,13 +17,3 @@
         <p><a href="${pageContext.request.contextPath}/new">新規メッセージの投稿</a></p>
     </c:param>
 </c:import>
-<!DOCTYPE html>
-<html lang="ja">
-    <head>
-        <meta charset="UTF-8">
-        <title>Insert title here</title>
-    </head>
-    <body>
-
-    </body>
-</html>
